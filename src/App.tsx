@@ -8,7 +8,7 @@ function App() {
       <section className="relative h-screen w-full">
         {/* Background Image Placeholder 1 */}
         <div className="absolute inset-0 bg-black opacity-50" style={{
-          backgroundImage: 'url("BACKGROUND_IMAGE_1_URL")',
+          backgroundImage: 'https://raw.githubusercontent.com/Angelio-git/GTC/main/assets/photo_2025-04-09_19-10-26.jpg',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
